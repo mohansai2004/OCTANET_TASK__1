@@ -1,0 +1,51 @@
+.mohansai
+{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:normal;
+    font-weight: bold;
+    background-color:white;
+    border-width: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    padding: 10px;
+}
+.sathwik
+{
+background-image:url("https://img.freepik.com/free-photo/top-view-circular-food-frame_23-2148723455.jpg?w=1060&t=st=1694360541~exp=1694361141~hmac=314493b383bcd4bf389d9791a126c7ff2050e33ca9ddaf7a9bf057380cc95123");
+background-size:cover ;
+height:100vh;
+}
+.varma
+{
+    list-style-type: none;
+    text-align: end;
+    font-weight: bolder;
+    flex:1;
+    padding: 2px;
+    
+
+}
+li{
+    display:inline;
+    padding: 5px;
+    color:rgba(12, 12, 11, 0.963);
+}
+.button
+{
+    color:antiquewhite;
+    border-radius: 5px;
+    border-width: 2px;
+}
+.foot{
+    text-align: center;
+
+}
+.name{
+    text-align: center;
+    font-style: italic;
+    font-size: 75px;
+    color: rgb(91, 0, 42);
+    flex:2;
+}
+
